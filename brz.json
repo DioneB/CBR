@@ -1,0 +1,24 @@
+{
+  "changes": [
+    {
+      "date": "22/08/2020",
+      "change": "Corrigido Sistema de Spawn"
+    },
+    {
+      "date": "22/08/2020",
+      "change": "Corrigido Sistema de Loot"
+    }
+  ],
+  "news": [
+    {
+      "date": "22/08/2020",
+      "title": "Horda Semanal",
+      "content": "Agora teremos uma Super Horda Semanalmente!"
+    },
+    {
+      "date": "22/08/2020",
+      "title": "Novo Zombie",
+      "content": "Agora teremos um Novo Zombie especial: Hunter!"
+    }
+  ]
+}

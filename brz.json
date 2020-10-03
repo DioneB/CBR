@@ -1,12 +1,19 @@
 {
   "changes": [
     {
-      "date": "22/08/2020",
-      "change": "Corrigido Sistema de Spawn"
+      "date": "03/10/2020",
+      "type": "Add",
+      "change": "Adicionado a Arma AK-47"
     },
     {
-      "date": "22/08/2020",
+      "date": "01/10/2020",
+      "type": "Correction",
       "change": "Corrigido Sistema de Loot"
+    },    
+    {
+      "date": "25/09/2020",
+      "type": "Correction",
+      "change": "Corrigido Sistema de Spawn"
     }
   ],
   "news": [

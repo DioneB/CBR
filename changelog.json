@@ -1,0 +1,10 @@
+{
+  "spawn": {
+    "date": "22/08/2020",
+    "change": "Corrigido Sistema de Spawn"
+  },
+  "loot": {
+    "date": "22/08/2020",
+    "change": "Corrigido Sistema de Loot"
+  }
+}

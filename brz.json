@@ -7,13 +7,18 @@
     },
     {
       "date": "01/10/2020",
-      "type": "Correction",
+      "type": "Cor",
       "change": "Corrigido Sistema de Loot"
     },    
     {
       "date": "25/09/2020",
-      "type": "Correction",
+      "type": "Cor",
       "change": "Corrigido Sistema de Spawn"
+    },    
+    {
+      "date": "25/09/2020",
+      "type": "Rem",
+      "change": "Removido o Item (Lata de Tinta)"
     }
   ],
   "news": [
